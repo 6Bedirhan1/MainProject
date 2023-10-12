@@ -1,0 +1,2 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\c#access\obj\Release\c#access.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\c#access\obj\Release\c#access.csproj.SuggestedBindingRedirects.cache
